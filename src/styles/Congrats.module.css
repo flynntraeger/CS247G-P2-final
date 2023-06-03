@@ -1,0 +1,33 @@
+/* styles/Congrats.module.css */
+.congrats {
+    text-align: center;
+    padding: 50px;
+    background: linear-gradient(45deg, #f3ec78, #af4261);
+    color: #fff;
+    height: 100vh;
+  }
+  
+  .congrats h1 {
+    font-size: 4em;
+  }
+  
+  .congrats p {
+    font-size: 2em;
+  }
+  
+  .confettiCannonLeft {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 50%;
+    height: 100%;
+  }
+  
+  .confettiCannonRight {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 50%;
+    height: 100%;
+  }
+  
